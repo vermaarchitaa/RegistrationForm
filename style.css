@@ -1,0 +1,38 @@
+h5 {
+    background-color: rgb(46, 43, 43);
+    color: white;
+    text-align: center;
+}
+
+body {
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+}
+
+#img {
+    margin-right: 10px;
+}
+
+.jee {
+    display: flex;
+    align-items: center;
+}
+
+.A {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+    padding-left: 10cm; 
+}
+
+header {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
